@@ -11,7 +11,7 @@ const Footer = () => (
         {/* <a className="social-media" href="" target="_blank"><FaTwitter /></a> */}
         <br />
   
-        <p className='text-center copyRight'>Copyright @ 2018 Man and Van Birmingham | all rights reserved</p>
+        <p className='text-center copyRight'>Copyright @ 2020 REMOVALS EXPRESS LTD, Company NO: 06520800 | all rights reserved</p>
     </footer>
 );
 

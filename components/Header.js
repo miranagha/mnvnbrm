@@ -21,7 +21,7 @@ export default class Example extends React.Component {
     return (
       <div>
         <div className="text-right">
-          <a className='phone' href="tel:01217692055"><FaPhone />01217692055</a>
+          <a className='phone' href="tel:02036337959"><FaPhone />02036337959</a>
         </div>
         <Navbar light expand="md">
           <Link href='/'>

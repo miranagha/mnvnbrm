@@ -8,14 +8,14 @@ import {Col} from "reactstrap";
 const Services = () => (
   <div>
     <Head>
-      <title>Man And Van service Birmingham</title>
+      <title>Man And Van service London</title>
       <meta name="description" content="Do you need us now? We are READY just give us a call now and pay us later" />
     </Head>
     <Page>
       <Col className="main-container">
         <Col sm="12" md={{ size: 8, offset: 2 }}>
           <br />
-          <h1>Man And Van service Birmingham</h1>
+          <h1>Man And Van service London</h1>
           <p>
             Man and Van 24 provides packers and movers.  We can supply one or more from our team of experts.
           </p>

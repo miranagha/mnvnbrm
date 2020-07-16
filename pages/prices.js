@@ -15,7 +15,7 @@ const Prices = () => (
         <Col className="main-container">
           <Col sm="12" md={{ size: 8, offset: 2 }}>
             <br />
-            <h1>Man and Van Birmingham Prices</h1>
+            <h1>Man and Van London Prices</h1>
             <p>
               All of our prices are inclusive and includes the following: 
             </p>

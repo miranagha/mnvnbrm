@@ -8,17 +8,17 @@ const GetAquote = () => (
   <div>
     <Head>
       <title>Get a free man and van quote</title>
-      <meta name="description" content="Man and Van Birmingham is able to provide you the cheapest and competative quote for free no obligation."/>
+      <meta name="description" content="Man and Van London is able to provide you the cheapest and competative quote for free no obligation."/>
     </Head>
     <Page>
       <Col className="main-container">
         <Col sm="12" md={{ size: 8, offset: 2 }}>
         <br />
-          <h1>Man and Van Birmingham Quotes</h1>
+          <h1>Man and Van London Quotes</h1>
           <p>Contact us for competitive quotes.  We also provide free advice and information to help 
             your move.  Our friendly staff can talk through all the stages of your move, identify what are your 
             priorities and time frames.  Our word is our bond.  We want our customers to have the confidence that 
-            what Man and Van Birmingham have contracted to do we aim to keep to our promises.
+            what Man and Van London have contracted to do we aim to keep to our promises.
           </p>
           <br />
         </Col>
@@ -26,8 +26,8 @@ const GetAquote = () => (
       <Col sm="12" md={{ size: 8, offset: 2 }}>
       <br />
         <p>
-          To get a free quote for Man with a Van services in Birmingham please send your details by
-          completing this form below or  call us now <a className='a' href='tel:01217692055'> 01217692055 </a>
+          To get a free quote for Man with a Van services in London please send your details by
+          completing this form below or  call us now <a className='a' href='tel:02036337959'> 02036337959 </a>
           (24/7).
         </p>
         <br />

@@ -8,16 +8,16 @@ import { Container, Row, Col } from "reactstrap";
 const Removals = () => (
   <div>
     <Head>
-      <title>Removals Birmingham - Get FREE quote now</title>
-      <meta name="description" content="Man with a Van Birmingham is providing the best local, national and international removals services with very reasonable prices" />
+      <title>Removals London - Get FREE quote now</title>
+      <meta name="description" content="Man with a Van London is providing the best local, national and international removals services with very reasonable prices" />
     </Head>
     <Page>
       <Col className="main-container">
         <Col sm="12" md={{ size: 8, offset: 2 }}>
           <br />
-          <h1>Removals Birmingham</h1>
+          <h1>Removals London</h1>
           <p>
-            Our Man and Van is based in Birmingham and we provide removal services to any postcode in the UK.  We also have
+            Our Man and Van is based in London and we provide removal services to any postcode in the UK.  We also have
             partner companies in London who can be called on to help with your move, whether it is your home or business.
           </p>
           <div className="prices">
@@ -58,7 +58,7 @@ const Removals = () => (
         <h2 className="h2">Moving your business</h2>
         <p>
           We can help you move your office relocating anywhere in the UK or the rest of Europe.
-          Man and Van Birmingham’s expert team will plan and ensure that the business move has the right level of staffing,
+          Man and Van London’s expert team will plan and ensure that the business move has the right level of staffing,
           equipment and vehicles to make your move meets your business needs.  Our expert team can load furniture and
           equipment on to vehicles to maximise use of space, safely and securely.
         </p>
@@ -71,7 +71,7 @@ const Removals = () => (
           <br />
           Getting a quote from removals service cannot be easier – just
           <Link href='/get-a-quote' passHref><a className='a'> complete this form </a></Link>
-          or call us on <a className='a' href='tel:01217692055'> 01217692055 </a>. We are here 24 hours a day.
+          or call us on <a className='a' href='tel:02036337959'> 02036337959 </a>. We are here 24 hours a day.
         </p>
       </Col>
     </Page>
